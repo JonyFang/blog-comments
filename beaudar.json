@@ -1,5 +1,6 @@
 {
   "origins": [
-    "https://blog.jonyfang.com"
+    "https://blog.jonyfang.com",
+    "http://localhost:4000"
   ]
 }
